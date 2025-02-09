@@ -1,0 +1,16 @@
+
+p{ font-size: 15px}
+
+header{ font-weight: bold;font-size: 27px;}
+
+ul{padding-left: 0px;
+margin: 0;}
+
+li { padding: 0;
+margin: 0;
+
+ }
+ .href{ padding-top: 0;}
+ @media screen and (max-width:525px){
+   
+ }
